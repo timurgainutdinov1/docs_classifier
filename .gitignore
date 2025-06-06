@@ -194,3 +194,6 @@ cython_debug/
 .cursorindexingignore
 .cursor/
 .cursorrules
+
+группы.txt
+комиссии.txt
